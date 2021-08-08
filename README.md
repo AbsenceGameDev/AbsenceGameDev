@@ -22,13 +22,13 @@ Self-taught to Educated
 <br />
 <img src="https://badges.pufler.dev/visits/AbsenceGameDev/AbsenceGameDev?style=flat-square&color=6875f5&logo=github" />
 
-<a href="https://permadev.se/">🏡 Personal Website</a> |
-<a href="https://twitter.com/PermafrostDevs">📺 Youtube</a> |
+<a href="https://permadev.se/" target="_blank">🏡 Personal Website</a> |
+<a href="https://twitter.com/PermafrostDevs" target="_blank">📺 Twitter</a> 
 
 
 ### I’m currently working on:
-<a href="https://github.com/AbsenceGameDev/imxrt1062"> IMXRT1062</a> |
-<a href="#"> boltzCmann</a> |
+<a href="https://github.com/AbsenceGameDev/imxrt1062" target="_blank"> IMXRT1062</a> |
+<a href="#"> boltzCmann</a> 
 
 
 ### Stats
