@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AbsenceGameDev/AbsenceGameDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +24,11 @@ Self-taught to Educated
 
 <a href="https://permadev.se/">🏡 Personal Website</a> |
 <a href="https://twitter.com/PermafrostDevs">📺 Youtube</a> |
+
+
+### I’m currently working on:
+<a href="https://github.com/AbsenceGameDev/imxrt1062"> IMXRT1062</a> |
+<a href="#"> boltzCmann</a> |
 
 
 ### Stats
