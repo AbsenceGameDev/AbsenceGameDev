@@ -34,6 +34,6 @@ Self-taught to Educated
 ### Stats
 
 <a href="https://github.com/AbsenceGameDev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbsenceGameDev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbsenceGameDev&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbsenceGameDev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbsenceGameDev&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
