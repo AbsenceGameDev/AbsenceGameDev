@@ -27,8 +27,7 @@ Self-taught to Educated
 
 
 ### I’m currently working on:
-<a href="https://github.com/AbsenceGameDev/imxrt1062" target="_blank"> IMXRT1062</a> |
-<a href="#"> boltzCmann</a> 
+<a href="https://github.com/AbsenceGameDev/imxrt1062" target="_blank"> IMXRT1062</a> (Open-source) | <a href="#"> boltzCmann</a> (Closed Source) 
 
 
 ### Stats
