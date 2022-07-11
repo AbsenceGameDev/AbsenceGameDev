@@ -20,7 +20,7 @@ Development Engineer @ <a href="https://ironbellystudios.com">IronBelly</a>
 Self-taught to Educated
 <br />
 <br />
-<img src="https://avatars.githubusercontent.com/u/11613840?v=4" />
+<img src="https://avatars.githubusercontent.com/u/11613840?v=4" width="10%" />
 
 <a href="https://permadev.se/" target="_blank">🏡 Personal Website</a> |
 <a href="https://twitter.com/PermafrostDevs" target="_blank">📺 Twitter</a> 
