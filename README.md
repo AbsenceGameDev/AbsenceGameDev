@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-Development Engineer @ <a href="https://ironbellystudios.com">IronBelly</a>
+Senior Development Engineer @ <a href="https://ironbellystudios.com">IronBelly</a>
 <br />
 Self-taught to Educated
 <br />
