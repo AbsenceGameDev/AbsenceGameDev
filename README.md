@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 
 
 
-Senior Development Engineer @ <a href="https://ironbellystudios.com">IronBelly</a>
-<br />
-Self-taught to Educated
-<br />
+Senior Development Engineer 
 <br />
 <img src="https://avatars.githubusercontent.com/u/11613840?v=4" width="10%" />
 
@@ -27,8 +24,8 @@ Self-taught to Educated
 
 
 ### Active projects:
-<a href="https://github.com/AbsenceGameDev/PDOpenSource" target="_blank"> Permafrost Development Open Source (UE4/UE5 Plugins) </a> (Open-source)
-<a href="https://github.com/AbsenceGameDev/RTSOpen" target="_blank"> Permafrost Development RTS (UE4/UE5 Plugins and gamemodule example) </a> (Open-source)
+<a href="https://github.com/AbsenceGameDev/PDOpenSource" target="_blank"> Permafrost Development Open Source (UE4/UE5 Plugins) </a> (Open-source) <br />
+<a href="https://github.com/AbsenceGameDev/RTSOpen" target="_blank"> Permafrost Development RTS (UE4/UE5 Plugins and gamemodule example) </a> (Open-source) <br />
 <a href="https://github.com/AbsenceGameDev/imxrt1062" target="_blank"> IMXRT1062</a> (Open-source)
 
 
