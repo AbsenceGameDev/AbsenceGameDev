@@ -26,8 +26,14 @@ Self-taught to Educated
 <a href="https://twitter.com/PermafrostDevs" target="_blank">📺 Twitter</a> 
 
 
-### I’m currently working on these, but I've not kept the repositories updated and instead have the latest versions backed up elsewhere. I aim to update these repos to reflect their current changes within the first quarter of 2024:
-<a href="https://github.com/AbsenceGameDev/imxrt1062" target="_blank"> IMXRT1062</a> (Open-source) | <a href="#"> boltzCmann</a> (Closed Source) 
+### Active projects:
+<a href="https://github.com/AbsenceGameDev/PDOpenSource" target="_blank"> Permafrost Development Open Source (UE4/UE5 Plugins) </a> (Open-source)
+<a href="https://github.com/AbsenceGameDev/RTSOpen" target="_blank"> Permafrost Development RTS (UE4/UE5 Plugins and gamemodule example) </a> (Open-source)
+<a href="https://github.com/AbsenceGameDev/imxrt1062" target="_blank"> IMXRT1062</a> (Open-source)
+
+
+### Projects on hold:
+<a href="#"> boltzCmann</a> (Closed Source) 
 
 
 ### Stats
