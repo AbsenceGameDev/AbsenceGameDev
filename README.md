@@ -36,6 +36,14 @@ Senior Development Engineer
 ### Stats
 
 <a href="https://github.com/AbsenceGameDev">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbsenceGameDev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbsenceGameDev&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbsenceGameDev&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbsenceGameDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </a>
+
+<a href="https://github.com/AbsenceGameDev">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbsenceGameDev&theme=vue-dark&hide_border=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbsenceGameDev&theme=vue-dark&hide_border=true&layout=compact&exclude_lang=java+r" />
+</a>
+
+
+![Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=AbsenceGameDev&hide=B&theme=vue-dark)
