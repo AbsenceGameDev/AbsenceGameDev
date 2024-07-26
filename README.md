@@ -44,6 +44,3 @@ Senior Development Engineer
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbsenceGameDev&theme=vue-dark&hide_border=true&count_private=true" />
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbsenceGameDev&theme=vue-dark&hide_border=true&layout=compact&exclude_lang=java+r" />
 </a>
-
-
-![Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=AbsenceGameDev&hide=B&theme=vue-dark)
