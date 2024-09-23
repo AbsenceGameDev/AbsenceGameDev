@@ -20,7 +20,7 @@ Senior Development Engineer
 <img src="https://avatars.githubusercontent.com/u/11613840?v=4" width="10%" />
 
 <a href="https://permadev.se/" target="_blank">🏡 Personal Website</a> |
-<a href="https://twitter.com/PermafrostDevs" target="_blank">📺 Twitter</a> 
+<a href="https://bsky.app/profile/agentmiyazaki.bsky.social" target="_blank">📺 BlueSky</a> 
 
 
 ### Active projects:
