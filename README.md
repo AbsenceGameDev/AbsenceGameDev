@@ -21,7 +21,7 @@ Senior Development Engineer
 ## 📊 My GitHub Stats
 | All-time    | Yearly      | 
 | :---        |    :---     |  
-| ![AllTime](https://github-readme-stats-eight-theta.vercel.app/api?username=AbsenceGameDev&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)   | ![Yearly](https://github-readme-stats-eight-theta.vercel.app/api?username=AbsenceGameDev&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)        | 
+| ![AllTime](https://github-readme-stats-eight-theta.vercel.app/api?username=AbsenceGameDev&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)   | ![Yearly](https://github-readme-stats-eight-theta.vercel.app/api?username=AbsenceGameDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)        | 
 
 
 | Streak      | Languages   | 
