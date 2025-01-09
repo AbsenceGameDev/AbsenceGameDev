@@ -9,7 +9,7 @@ Senior Development Engineer
 - Current vocation: Gameplay programmer @ Rennsport.gg
 
 ## 📫 My Links
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/agentmiyazaki) 
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/agentmiyazaki.bsky.social) 
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-8A2BE2?style=for-the-badge)](https://permadev.se/) 
 
 ## 🔭 My Projects
