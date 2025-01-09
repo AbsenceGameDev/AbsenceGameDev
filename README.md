@@ -35,7 +35,7 @@ Senior Development Engineer
 | :---        |    :---    |    :---       |    :---          |
 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)  | ![Imgui](https://img.shields.io/badge/ImGUi-%23313131.svg?style=for-the-badge) | ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)  |
 | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)    | ![CryEngine](https://img.shields.io/badge/cryengine-%23313131.svg?style=for-the-badge&logo=cryengine&logoColor=white)         | ![MicroUI](https://img.shields.io/badge/MicroUI-blue.svg?style=for-the-badge)             |                |
-|   | ![Unigine](https://img.shields.io/badge/uniengine-%23313131.svg?style=for-the-badge&logo=unigine&logoColor=white)  |             |                |
+|   | ![Unigine](https://img.shields.io/badge/unigine-%23313131.svg?style=for-the-badge&logo=unigine&logoColor=white)  |             |                |
 
 | Version Control | Debugging  | Build Tools | Art Tools |
 | :---            |    :---  |    :---   |    :--- |
