@@ -8,6 +8,12 @@ Sorry for some of the inlined base64 encoded SVGs messing things up in here haha
 Senior Development Engineer
 - Current vocation: Gameplay programmer @ Rennsport.gg
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AbsenceGameDev/AbsenceGameDev/blob/github-contribution-grid-snake-output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AbsenceGameDev/AbsenceGameDev/blob/github-contribution-grid-snake-output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/AbsenceGameDev/AbsenceGameDev/blob/github-contribution-grid-snake-output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 ## 📫 My Links
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/agentmiyazaki.bsky.social) 
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-8A2BE2?style=for-the-badge)](https://permadev.se/) 
