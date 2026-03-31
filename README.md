@@ -10,12 +10,6 @@ Sorry for some of the inlined base64 encoded SVGs messing things up in here haha
 Senior Development Engineer
 - Current vocation: Gameplay programmer @ Rennsport.gg
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AbsenceGameDev/AbsenceGameDev/blob/github-contribution-grid-snake-output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AbsenceGameDev/AbsenceGameDev/blob/github-contribution-grid-snake-output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/AbsenceGameDev/AbsenceGameDev/blob/github-contribution-grid-snake-output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 ## 📫 My Links
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/agentmiyazaki.bsky.social) 
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-8A2BE2?style=for-the-badge)](https://permadev.se/) 
@@ -27,14 +21,21 @@ Senior Development Engineer
 | [![PermaDev Open](https://img.shields.io/badge/Permadev%20Open-AA4D2B?style=for-the-badge)](https://github.com/AbsenceGameDev/PDOpenSource)   |         | [![boltzCmann](https://img.shields.io/badge/boltzCmann-AA1212?style=for-the-badge)](#)      |
 
 ## 📊 My GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AbsenceGameDev/AbsenceGameDev/blob/github-contribution-grid-snake-output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AbsenceGameDev/AbsenceGameDev/blob/github-contribution-grid-snake-output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/AbsenceGameDev/AbsenceGameDev/blob/github-contribution-grid-snake-output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 | All-time    | Yearly      | 
 | :---        |    :---     |  
 | ![AllTime](https://github-readme-stats-eight-theta.vercel.app/api?username=AbsenceGameDev&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)   | ![Yearly](https://github-readme-stats-eight-theta.vercel.app/api?username=AbsenceGameDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)        | 
 
-
+<!--
 | Streak      | Languages   | 
 | :---        |    :---     | 
 | ![Streak](https://nirzak-streak-stats.vercel.app?user=AbsenceGameDev&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)   | ![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbsenceGameDev&theme=vue-dark&hide_border=true&layout=compact&exclude_lang=java+r)        | 
+-->
 
 
 ## 💻 My Tech Stack
