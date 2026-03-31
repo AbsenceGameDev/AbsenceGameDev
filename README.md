@@ -2,7 +2,9 @@
 **AbsenceGameDev/AbsenceGameDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Sorry for some of the inlined base64 encoded SVGs messing things up in here haha, these icons were not available by the shields.io logo provider
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAbsenceGameDev&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAbsenceGameDev)
 -->
+
 
 <img src="https://avatars.githubusercontent.com/u/11613840?v=4" width="10%" />
 Senior Development Engineer
