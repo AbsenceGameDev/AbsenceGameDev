@@ -32,10 +32,10 @@ Senior Development Engineer
 | ![AllTime](https://github-readme-stats-eight-theta.vercel.app/api?username=AbsenceGameDev&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)   | ![Yearly](https://github-readme-stats-eight-theta.vercel.app/api?username=AbsenceGameDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)        | 
 
 <!--
+-->
 | Streak      | Languages   | 
 | :---        |    :---     | 
 | ![Streak](https://nirzak-streak-stats.vercel.app?user=AbsenceGameDev&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)   | ![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbsenceGameDev&theme=vue-dark&hide_border=true&layout=compact&exclude_lang=java+r)        | 
--->
 
 
 ## 💻 My Tech Stack
