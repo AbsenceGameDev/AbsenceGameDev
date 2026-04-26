@@ -27,15 +27,6 @@ Senior Development Engineer
   <img alt="github-snake" src="https://github.com/AbsenceGameDev/AbsenceGameDev/blob/github-contribution-grid-snake-output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<!--
-| All-time    | Yearly      | Languages   | 
-| :---        |    :---     |    :---     |   
-| ![AllTime](https://raw.githubusercontent.com/AbsenceGameDev/AbsenceGameDev/main/profile-summary-card-output/dracula/0-profile-details.svg)   | ![Yearly](https://github-readme-stats-eight-theta.vercel.app/api?username=AbsenceGameDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)        | ![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbsenceGameDev&theme=vue-dark&hide_border=true&layout=compact&exclude_lang=java+r)        | 
-| Streak      | Languages   | 
-| :---        |    :---     | 
-| ![Streak](https://nirzak-streak-stats.vercel.app?user=AbsenceGameDev&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)   | ![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbsenceGameDev&theme=vue-dark&hide_border=true&layout=compact&exclude_lang=java+r)        | 
--->
-
 <!-- Needed to control table sizes so needed html, looks a bit messy-->
 <table width="100%">
   <thead>
