@@ -28,7 +28,7 @@ Senior Development Engineer
 </picture>
 
 <!-- Needed to control table sizes so needed html, looks a bit messy-->
-<table width="100%">
+<table width="105%", max-width="105%">
   <thead>
     <tr>
       <th width="45%"><p align="left">All-time</p></th>
