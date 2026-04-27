@@ -10,15 +10,12 @@ Sorry for some of the inlined base64 encoded SVGs messing things up in here haha
 Senior Development Engineer
 - Current vocation: Gameplay programmer @ Rennsport.gg
 
-## 📫 My Links
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/agentmiyazaki.bsky.social) 
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-8A2BE2?style=for-the-badge)](https://permafrostdev.se/) 
 
-## 🔭 My Projects
-| Source Available | Open Source | Closed Source |
-| :---        |    :---   |          :--- |
-| [![RTS Open](https://img.shields.io/badge/RTS%20Open-AA4D2B?style=for-the-badge)](https://github.com/AbsenceGameDev/RTSOpen)      | [![IMXRT1062](https://img.shields.io/badge/IMXRT1062_%20-2A4D2B?style=for-the-badge)](https://github.com/AbsenceGameDev/imxrt1062)       | [![Ivarr](https://img.shields.io/badge/Ivarr-AA1212?style=for-the-badge)](#)   |
-| [![PermaDev Open](https://img.shields.io/badge/Permadev%20Open-AA4D2B?style=for-the-badge)](https://github.com/AbsenceGameDev/PDOpenSource)   |         | [![boltzCmann](https://img.shields.io/badge/boltzCmann-AA1212?style=for-the-badge)](#)      |
+## My Links📫 & Projects 🔭
+| 📫Links | 🔭Source Available | 🔭Open Source | 🔭Closed Source |
+| :---        |    :---   |    :---   |          :--- |
+| [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/agentmiyazaki.bsky.social)  | [![RTS Open](https://img.shields.io/badge/RTS%20Open-AA4D2B?style=for-the-badge)](https://github.com/AbsenceGameDev/RTSOpen)      | [![IMXRT1062](https://img.shields.io/badge/IMXRT1062_%20-2A4D2B?style=for-the-badge)](https://github.com/AbsenceGameDev/imxrt1062)       | [![Ivarr](https://img.shields.io/badge/Ivarr-AA1212?style=for-the-badge)](#)   |
+| [![Personal Website](https://img.shields.io/badge/Personal%20Website-8A2BE2?style=for-the-badge)](https://permafrostdev.se/) | [![PermaDev Open](https://img.shields.io/badge/Permadev%20Open-AA4D2B?style=for-the-badge)](https://github.com/AbsenceGameDev/PDOpenSource)   |         | [![boltzCmann](https://img.shields.io/badge/boltzCmann-AA1212?style=for-the-badge)](#)      |
 
 ## 📊 My GitHub Stats
 <picture>
@@ -28,16 +25,16 @@ Senior Development Engineer
 </picture>
 
 <!-- Needed to control table sizes so needed html, looks a bit messy-->
-<table width="105%", max-width="105%">
+<table style="margin=0 !important; padding=0 !important;width=100%">
   <thead>
-    <tr>
+    <tr style="margin=0 !important; padding=0 !important;">
       <th width="45%"><p align="left">All-time</p></th>
       <th width="30%"><p align="left">Yearly</p></th>
       <th width="45%"><p align="left">Languages</p></th>
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr style="margin=0 !important;padding=0 !important;">
       <td width="45%"><img src="https://raw.githubusercontent.com/AbsenceGameDev/AbsenceGameDev/main/profile-summary-card-output/dracula/0-profile-details.svg"/></td>
       <td width="30%"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbsenceGameDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/></td>
       <td width="45%"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbsenceGameDev&theme=vue-dark&hide_border=true&layout=compact&exclude_lang=java+r"/></td>
