@@ -16,7 +16,7 @@ Senior Development Engineer
 | 📫Links | 🔭Source Available | 🔭Open Source | 🔭Closed Source |
 | :---        |    :---   |    :---   |          :--- |
 | [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/agentmiyazaki.bsky.social)  | [![RTS Open](https://img.shields.io/badge/RTS%20Open-AA4D2B?style=for-the-badge)](https://github.com/AbsenceGameDev/RTSOpen)      | [![IMXRT1062](https://img.shields.io/badge/IMXRT1062_%20-2A4D2B?style=for-the-badge)](https://github.com/AbsenceGameDev/imxrt1062)       | [![Ivarr](https://img.shields.io/badge/Ivarr-AA1212?style=for-the-badge)](#)   |
-| [![Personal Website](https://img.shields.io/badge/Personal%20Website-8A2BE2?style=for-the-badge)](https://permafrostdev.se/) | [![PermaDev Open](https://img.shields.io/badge/Permadev%20Open-AA4D2B?style=for-the-badge)](https://github.com/AbsenceGameDev/PDOpenSource)   |         | [![boltzCmann](https://img.shields.io/badge/boltzCmann-AA1212?style=for-the-badge)](#)      |
+| [![Personal Website](https://img.shields.io/badge/Personal%20Website-8A2BE2?style=for-the-badge)](https://permafrostdev.se/) | [![PermaDev Open](https://img.shields.io/badge/Permadev%20Open-AA4D2B?style=for-the-badge)](https://github.com/AbsenceGameDev/PDOpen)   |         | [![boltzCmann](https://img.shields.io/badge/boltzCmann-AA1212?style=for-the-badge)](#)      |
 
 ## 📊 My GitHub Stats
 <picture>
