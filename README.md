@@ -3,18 +3,23 @@ Sorry for some of the inlined base64 encoded SVGs messing things up in here haha
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAbsenceGameDev&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAbsenceGameDev)
 -->
 
+<img src="https://avatars.githubusercontent.com/u/11613840?v=4" height="150" /> <img src="https://img.shields.io/badge/Ario%20Amin-blueviolet?style=for-the-badge" width="500" height="150" />
 
-<img src="https://avatars.githubusercontent.com/u/11613840?v=4" width="10%" />
-Senior Development Engineer
-- Current vocation: Gameplay programmer @ Rennsport.gg
-
-
+<img src="https://img.shields.io/badge/RENNSPORT.GG-%20GAMEPLAY%20PROGRAMMER-important?style=for-the-badge" />
 
 ## My Links📫 & Projects 🔭
 | 📫Links | 🔭Source Available | 🔭Open Source | 🔭Closed Source |
 | :---        |    :---   |    :---   |          :--- |
 | [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/agentmiyazaki.bsky.social)  | [![RTS Open](https://img.shields.io/badge/RTS%20Open-AA4D2B?style=for-the-badge)](https://github.com/AbsenceGameDev/RTSOpen)      | [![IMXRT1062](https://img.shields.io/badge/IMXRT1062_%20-2A4D2B?style=for-the-badge)](https://github.com/AbsenceGameDev/imxrt1062)       | [![Ivarr](https://img.shields.io/badge/Ivarr-AA1212?style=for-the-badge)](#)   |
 | [![Personal Website](https://img.shields.io/badge/Personal%20Website-8A2BE2?style=for-the-badge)](https://permafrostdev.se/) | [![PermaDev Open](https://img.shields.io/badge/Permadev%20Open-AA4D2B?style=for-the-badge)](https://github.com/AbsenceGameDev/PDOpen)   |         | [![boltzCmann](https://img.shields.io/badge/boltzCmann-AA1212?style=for-the-badge)](#)      |
+
+
+## Work projects 🔭
+| ✅ Released | 🔄 Not Released | ❌ Shuttered | 🤐 Under NDA  |
+| :---        |    :---   |    :---   |          :--- |
+|  <img src="https://img.shields.io/badge/RENNSPORT-important?style=for-the-badge" />    |   <img src="https://img.shields.io/badge/SHRAPNEL-important?style=for-the-badge" />    |   <img src="https://img.shields.io/badge/BULLET%20VILLE-important?style=for-the-badge" />   |  #0 (Scifi project)  |
+|  <img src="https://img.shields.io/badge/FRACTURED%20VEIL-important?style=for-the-badge" />    |      |      |   #0 (Extraction shooter)   |
+
 
 ## 📊 My GitHub Stats
 <picture>
