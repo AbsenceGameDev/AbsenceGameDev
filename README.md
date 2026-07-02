@@ -3,7 +3,7 @@ Sorry for some of the inlined base64 encoded SVGs messing things up in here haha
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAbsenceGameDev&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAbsenceGameDev)
 -->
 
-<img src="https://avatars.githubusercontent.com/u/11613840?v=4" height="150" /> <img src="https://img.shields.io/badge/Ario%20Amin-blueviolet?style=for-the-badge" width="500" height="150" />
+<img src="https://avatars.githubusercontent.com/u/11613840?v=4" height="150" /> <img src="https://img.shields.io/badge/Ario%20Amin-blueviolet?style=for-the-badge" width="500" height="150" /> <img src="https://img.shields.io/badge/No%20AI-AA1212?style=for-the-badge" width="128" height="64" />
 
 <img src="https://img.shields.io/badge/RENNSPORT.GG-%20GAMEPLAY%20PROGRAMMER-important?style=for-the-badge" />
 
