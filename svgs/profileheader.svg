@@ -5,13 +5,26 @@
         .wrapper 
         {
           height: 100vh;
-          display: grid;
+          display: flex;
           place-items: center;
         }
 
+        .textsmall
+        {
+          width: 5ch;
+          animation: typing 1.5s steps(5), blink .5s step-end infinite alternate;
+          white-space: nowrap;
+          overflow: hidden;
+          border-right: 3px solid;
+          font-family: monospace;
+          font-size: 2.5em;
+          background: linear-gradient(90deg, rgba(0,241,220,1) 0%, rgba(86,115,241,1) 44%, rgba(103,68,241,1) 54%, rgba(254,0,255,1) 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;          
+        }
         .text 
         {
-          width: 19ch;
+          width: 9ch;
           animation: typing 1.5s steps(9), blink .5s step-end infinite alternate;
           white-space: nowrap;
           overflow: hidden;
@@ -36,8 +49,11 @@
       </style>
       <div class="wrapper">
         <div class="text">
-          Ario Amin, #NoAI
+          Ario Amin 
         </div>
+        <div class="textsmall">
+          #NoAI
+        </div>       
       </div>
   </div>
  </foreignObject>
