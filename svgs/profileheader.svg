@@ -9,23 +9,10 @@
           place-items: center;
         }
 
-        .textsmall
-        {
-          width: 5ch;
-          animation: typing 1.5s steps(5), blink .5s step-end infinite alternate;
-          white-space: nowrap;
-          overflow: hidden;
-          border-right: 3px solid;
-          font-family: monospace;
-          font-size: 2.5em;
-          background: linear-gradient(90deg, rgba(0,241,220,1) 0%, rgba(86,115,241,1) 44%, rgba(103,68,241,1) 54%, rgba(254,0,255,1) 100%);
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;          
-        }
         .text 
         {
-          width: 9ch;
-          animation: typing 1.5s steps(9), blink .5s step-end infinite alternate;
+          width: 16ch;
+          animation: typing 1.5s steps(16), blink .5s step-end infinite alternate;
           white-space: nowrap;
           overflow: hidden;
           border-right: 3px solid;
@@ -49,11 +36,8 @@
       </style>
       <div class="wrapper">
         <div class="text">
-          Ario Amin 
-        </div>
-        <div class="textsmall">
-          #NoAI
-        </div>       
+          Ario Amin #NoAI
+        </div>   
       </div>
   </div>
  </foreignObject>
