@@ -6,7 +6,7 @@ Sorry for some of the inlined base64 encoded SVGs messing things up in here haha
 https://github.com/AbsenceGameDev/AbsenceGameDev/blob/main/svgs/profileheader.svg
 https://github.com/AbsenceGameDev/AbsenceGameDev/blob/main/svgs/shaderexperiment.svg
 -->
-<img src="https://avatars.githubusercontent.com/u/11613840?v=4" height="150" /> <img src="https://raw.githubusercontent.com/AbsenceGameDev/AbsenceGameDev/e757deac05f81a7a1d8fa67780a5fbf3f0de516f/svgs/profileheader.svg" width="700" height="150" />
+<img src="https://avatars.githubusercontent.com/u/11613840?v=4" height="150" /> <img src="https://raw.githubusercontent.com/AbsenceGameDev/AbsenceGameDev/b1b7ab171b295a15e6f6c0d8b0e574540c5df898/svgs/profileheader.svg" width="550" height="150" />
 
 <img src="https://img.shields.io/badge/RENNSPORT.GG-%20GAMEPLAY%20PROGRAMMER-important?style=for-the-badge" />
 
