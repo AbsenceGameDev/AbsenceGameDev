@@ -21,9 +21,8 @@ https://github.com/AbsenceGameDev/AbsenceGameDev/blob/main/svgs/shaderexperiment
 ## Work projects 🔭
 | ✅ Released | 🔄 Not Released | ❌ Shuttered | 🤐 Under NDA  |
 | :---        |    :---   |    :---   |          :--- |
-|  <img src="https://img.shields.io/badge/RENNSPORT-important?style=for-the-badge" />    |   <img src="https://img.shields.io/badge/SHRAPNEL-important?style=for-the-badge" />    |   <img src="https://img.shields.io/badge/BULLET%20VILLE-important?style=for-the-badge" />   |  #0 (Scifi project)  |
-|  <img src="https://img.shields.io/badge/FRACTURED%20VEIL-important?style=for-the-badge" />    |      |      |   #0 (Extraction shooter)   |
-
+|  [![Rennsport](https://img.shields.io/badge/SHRAPNEL-important?style=for-the-badge)](https://store.steampowered.com/app/2077750/RENNSPORT)     |   [![Shrapnel](https://img.shields.io/badge/SHRAPNEL-important?style=for-the-badge)](https://store.steampowered.com/app/4175080/SHRAPNEL)     |   <img src="https://img.shields.io/badge/BULLET%20VILLE-important?style=for-the-badge" />   |  #0 (Scifi project)  |
+|  [![Fractured Veil](https://img.shields.io/badge/FRACTURED%20VEIL-important?style=for-the-badge)](https://store.steampowered.com/app/1128500/Fractured_Veil)    |      |      |   #0 (Extraction shooter)   |
 
 ## 📊 My GitHub Stats
 <picture>
